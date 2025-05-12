@@ -1,6 +1,6 @@
  <br>👋 Hi there! My name is Marco Esparza, somebody super intrigued by the scientific complexities that life has to offer! <br/>
  <br>   I am a senior studying Astrophysics at Carnegie Mellon University, and very interested in everything physics, 
-electronics, and programming-related. <br/>
+semiconductors, and programming-related. <br/>
   <br>     My projects primarily consist of astrophysics-based python programming, and I am currently learning C with its OpenMP & 
 MPI capabilities in a physics context.  <br/>
 
